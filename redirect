@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec?$1",
+      "permanent": false
+    }
+  ]
+}
